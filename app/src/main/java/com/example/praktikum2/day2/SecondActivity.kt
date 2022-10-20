@@ -1,8 +1,9 @@
-package com.example.praktikum2
+package com.example.praktikum2.day2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import com.example.praktikum2.R
 
 class SecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
